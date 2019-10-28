@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gapi-reworked/static/css/main.34de6062.chunk.css",
+    "main.js": "/gapi-reworked/static/js/main.8ab3ac26.chunk.js",
+    "main.js.map": "/gapi-reworked/static/js/main.8ab3ac26.chunk.js.map",
+    "runtime~main.js": "/gapi-reworked/static/js/runtime~main.20445510.js",
+    "runtime~main.js.map": "/gapi-reworked/static/js/runtime~main.20445510.js.map",
+    "static/js/2.709ea747.chunk.js": "/gapi-reworked/static/js/2.709ea747.chunk.js",
+    "static/js/2.709ea747.chunk.js.map": "/gapi-reworked/static/js/2.709ea747.chunk.js.map",
+    "index.html": "/gapi-reworked/index.html",
+    "precache-manifest.a1f9400dd7e910c1e2d64815676a9562.js": "/gapi-reworked/precache-manifest.a1f9400dd7e910c1e2d64815676a9562.js",
+    "service-worker.js": "/gapi-reworked/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/gapi-reworked/static/css/main.34de6062.chunk.css.map"
+  }
+}
