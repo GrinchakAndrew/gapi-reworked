@@ -138,6 +138,8 @@ body {
 }
 .header .columniser-text {
   visibility: hidden;
+  position: absolute;
+  top: 20px;
 }
 .details-body-description {
   padding: 10px;
